@@ -29,7 +29,7 @@ A modern Android app to capture, organize, and store images session-wise using *
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/bishnuprasadsandha/camera-app.git
+   git clone https://github.com/bishnuprasadsandha/Camera-App
 
 
 2. **Open in Android Studio (Recommended: Ladybug or newer)**  

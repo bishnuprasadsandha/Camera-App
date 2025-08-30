@@ -31,7 +31,6 @@ A modern Android app to capture, organize, and store images session-wise using *
    ```bash
    git clone https://github.com/bishnuprasadsandha/Camera-App
 
-
 2. **Open in Android Studio (Recommended: Ladybug or newer)**  
 3. **Use JDK 17**  
 4. **Build & Run** the `app` module on a **physical device**  
